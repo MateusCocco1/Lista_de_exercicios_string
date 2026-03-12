@@ -1,4 +1,4 @@
-ata = input("Digite a data (dd/mm/aaaa): ")
+data = input("Digite a data (dd/mm/aaaa): ")
 
 dia, mes, ano = data.split("/")
 
